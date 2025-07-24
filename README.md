@@ -9,11 +9,6 @@ Ett UX-fokuserat designprojekt där det utvecklats en hifi-prototyp från idé t
 Användaranalys => Persona => Funktionella krav => Icke-funktionella krav => Wireframes => Hi-fi prototyp 
  ```
 
-## Färgpalett
-
-
-<img width="768" height="342" alt="Frame 1 (3)" src="https://github.com/user-attachments/assets/6b08038f-d27e-4759-8532-276aaea86588" />
-
 
 ##  Research
 
@@ -54,9 +49,16 @@ Wireframes är skapade för samtliga sidor. Här är ett exempel:
 <img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/03f4f105-4255-4283-a143-b85205251eec" />
 
 
-##  Hi-Fi prototyp
-Den färdiga prototypen är byggd i Figma:
+#  Hi-Fi prototyp
+Den färdiga prototypen är byggd i Figma
 
+
+## Färgpalett
+
+<img width="768" height="342" alt="Frame 1 (3)" src="https://github.com/user-attachments/assets/6b08038f-d27e-4759-8532-276aaea86588" />
+
+
+## Färdig prototyp
 
 <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/3d4fc750-7961-4317-8116-fce317a2683d" />
 <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/1bc05695-e742-4291-bd31-0733ecf25468" />
