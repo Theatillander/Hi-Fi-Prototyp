@@ -9,6 +9,11 @@ Ett UX-fokuserat designprojekt där det utvecklats en hifi-prototyp från idé t
 Användaranalys => Persona => Funktionella krav => Icke-funktionella krav => Wireframes => Hi-fi prototyp 
  ```
 
+## Färgpalett
+
+<span style="display:inline-block; width:40px; height:40px; background-color:#FF5733; margin-right:5px;"></span> 
+<span style="display:inline-block; width:40px; height:40px; background-color:#33C1FF; margin-right:5px;"></span> 
+<span style="display:inline-block; width:40px; height:40px; background-color:#8D33FF; margin-right:5px;"></span> 
 
 ##  Research
 
