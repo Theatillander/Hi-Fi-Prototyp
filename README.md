@@ -60,18 +60,18 @@ Den färdiga prototypen är byggd i Figma
 ## Komponenter
 
 <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/d15fde7f-98b8-42c8-8fc2-c81a2ebb9fa1" />
-<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/8df4e33d-6558-41d2-8329-bbfc37be03ee" />
-<img width="284" height="236" alt="image" src="https://github.com/user-attachments/assets/a1cc9d7a-6e76-4e36-9949-43542a6525b9" />
-<img width="407" height="218" alt="image" src="https://github.com/user-attachments/assets/bd550dc7-2ea6-49e1-b3a3-f829bc186a5c" />
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/8df4e33d-6558-41d2-8329-bbfc37be03ee" />
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/a1cc9d7a-6e76-4e36-9949-43542a6525b9" />
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/bd550dc7-2ea6-49e1-b3a3-f829bc186a5c" />
 
 ## Olika designförslag
 
-<img width="244" height="107" alt="image" src="https://github.com/user-attachments/assets/c5b892b6-e944-4eed-bd74-e1deae5aa26a" />
-<img width="321" height="167" alt="image" src="https://github.com/user-attachments/assets/1c120e95-7f5f-4c9a-a035-6d789ff9a72d" />
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/c5b892b6-e944-4eed-bd74-e1deae5aa26a" />
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/1c120e95-7f5f-4c9a-a035-6d789ff9a72d" />
 
 ## Mönsterval
 
-<img width="464" height="233" alt="image" src="https://github.com/user-attachments/assets/09738f97-0115-4873-bba1-77cf61d0ecf9" />
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/09738f97-0115-4873-bba1-77cf61d0ecf9" />
 
 
 ## Hi-Fi prototyp - färdig prototyp
