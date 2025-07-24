@@ -56,7 +56,6 @@ Den färdiga prototypen är byggd i Figma:
 <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/3d4fc750-7961-4317-8116-fce317a2683d" />
 <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/1bc05695-e742-4291-bd31-0733ecf25468" />
 <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/0d35dac6-d637-4e77-aa8d-ebbc63c74f67" />
-<img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/df290764-5e65-4b5a-b78f-d01e6dadcf79" />
-<img width="407" height="842" alt="image" src="https://github.com/user-attachments/assets/611d91f2-a563-45fd-8fb6-797cbc46d7c5" />
+<img width="200" height="600"  alt="image" src="https://github.com/user-attachments/assets/611d91f2-a563-45fd-8fb6-797cbc46d7c5" />
 <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/0ce780f4-24ca-4cdc-9523-c0b5ce6bb9db" />
 
