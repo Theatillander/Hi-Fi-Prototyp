@@ -59,10 +59,10 @@ Den färdiga prototypen är byggd i Figma
 
 ## Komponenter
 
-<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/d15fde7f-98b8-42c8-8fc2-c81a2ebb9fa1" />
-<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/8df4e33d-6558-41d2-8329-bbfc37be03ee" />
-<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/a1cc9d7a-6e76-4e36-9949-43542a6525b9" />
-<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/bd550dc7-2ea6-49e1-b3a3-f829bc186a5c" />
+<img width="" height="100" alt="image" src="https://github.com/user-attachments/assets/d15fde7f-98b8-42c8-8fc2-c81a2ebb9fa1" />
+<img width="" height="100" alt="image" src="https://github.com/user-attachments/assets/8df4e33d-6558-41d2-8329-bbfc37be03ee" />
+<img width="" height="100" alt="image" src="https://github.com/user-attachments/assets/a1cc9d7a-6e76-4e36-9949-43542a6525b9" />
+<img width="" height="100" alt="image" src="https://github.com/user-attachments/assets/bd550dc7-2ea6-49e1-b3a3-f829bc186a5c" />
 
 ## Olika designförslag
 
