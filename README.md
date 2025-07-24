@@ -49,7 +49,7 @@ Wireframes är skapade för samtliga sidor. Här är ett exempel:
 <img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/03f4f105-4255-4283-a143-b85205251eec" />
 
 
-#  Hi-Fi prototyp
+#  Hi-Fi prototyp - Processen
 Den färdiga prototypen är byggd i Figma
 
 
@@ -57,8 +57,24 @@ Den färdiga prototypen är byggd i Figma
 
 <img width="768" height="342" alt="Frame 1 (3)" src="https://github.com/user-attachments/assets/6b08038f-d27e-4759-8532-276aaea86588" />
 
+## Komponenter
 
-## Färdig prototyp
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/d15fde7f-98b8-42c8-8fc2-c81a2ebb9fa1" />
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/8df4e33d-6558-41d2-8329-bbfc37be03ee" />
+<img width="284" height="236" alt="image" src="https://github.com/user-attachments/assets/a1cc9d7a-6e76-4e36-9949-43542a6525b9" />
+<img width="407" height="218" alt="image" src="https://github.com/user-attachments/assets/bd550dc7-2ea6-49e1-b3a3-f829bc186a5c" />
+
+## Olika designförslag
+
+<img width="244" height="107" alt="image" src="https://github.com/user-attachments/assets/c5b892b6-e944-4eed-bd74-e1deae5aa26a" />
+<img width="321" height="167" alt="image" src="https://github.com/user-attachments/assets/1c120e95-7f5f-4c9a-a035-6d789ff9a72d" />
+
+## Mönsterval
+
+<img width="464" height="233" alt="image" src="https://github.com/user-attachments/assets/09738f97-0115-4873-bba1-77cf61d0ecf9" />
+
+
+## Hi-Fi prototyp - färdig prototyp
 
 <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/3d4fc750-7961-4317-8116-fce317a2683d" />
 <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/1bc05695-e742-4291-bd31-0733ecf25468" />
