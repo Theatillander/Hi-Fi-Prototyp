@@ -11,9 +11,9 @@ Användaranalys => Persona => Funktionella krav => Icke-funktionella krav => Wir
 
 ## Färgpalett
 
-<span style="display:inline-block; width:40px; height:40px; background-color:#FF5733; margin-right:5px;"></span> #FF5733
-<span style="display:inline-block; width:40px; height:40px; background-color:#33C1FF; margin-right:5px;"></span> #33C1FF
-<span style="display:inline-block; width:40px; height:40px; background-color:#8D33FF; margin-right:5px;"></span> #8D33FF
+
+<img width="768" height="342" alt="Frame 1 (3)" src="https://github.com/user-attachments/assets/6b08038f-d27e-4759-8532-276aaea86588" />
+
 
 ##  Research
 
