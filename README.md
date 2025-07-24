@@ -55,7 +55,7 @@ Den färdiga prototypen är byggd i Figma
 
 ## Färgpalett
 
-<img width="768" height="200" alt="Frame 1 (3)" src="https://github.com/user-attachments/assets/6b08038f-d27e-4759-8532-276aaea86588" />
+<img width="" height="200" alt="Frame 1 (3)" src="https://github.com/user-attachments/assets/6b08038f-d27e-4759-8532-276aaea86588" />
 
 ## Komponenter
 
